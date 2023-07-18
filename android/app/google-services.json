@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179196103843",
+    "project_id": "ywork-f7082",
+    "storage_bucket": "ywork-f7082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179196103843:android:5421ed13cf5b7d684d8316",
+        "android_client_info": {
+          "package_name": "com.user.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179196103843-e63u8062ojtre2f96upti6a3d2jhnnhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvj4XVOt21sfnm614fwomkrTieeapZmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179196103843-e63u8062ojtre2f96upti6a3d2jhnnhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
